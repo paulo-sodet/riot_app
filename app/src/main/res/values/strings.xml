@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">RiotConfigurationApp</string>
     <string name="action_settings">Settings</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_ssid">Ssid</string>
+    <string name="action_registrate_short">Registrar</string>
+    <string name="action_registration_in">Registrar</string>
+    <string name="error_invalid_password">Password invalido</string>
+    <string name="prompt_protocol">Protocolo</string>
 </resources>
